@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="51fenniuFTP">
+  <component name="PublishConfigData" serverName="51fenniuFTP" uploadOnCheckin="6f4ccbba-8aeb-4bc4-817f-af1735d9339d">
     <serverData>
       <paths name="51fenniuFTP">
         <serverdata>
@@ -10,6 +10,7 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="51fenniuFTP" />
   </component>
 </project>
 
