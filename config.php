@@ -17,12 +17,13 @@ $options = array(
 );
 
 
-$wooClient = "EMPTY";
+$client = "EMPTY";
 
 try {
 
-    $wooClient = new WC_API_Client('http://121.40.182.178', $CONSUMER_KEY, $CONSUMER_SECRET, $options);
+    $client = new WC_API_Client('http://121.40.182.178', $CONSUMER_KEY, $CONSUMER_SECRET, $options);
     echo "<br>connect woo api success!<br>";
+    
 
 } catch (WC_API_Client_Exception $e) {
 

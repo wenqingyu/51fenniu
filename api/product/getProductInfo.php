@@ -5,19 +5,19 @@ echo "getProductInfo";
 
 require_once('../../config.php');
 
-global $wooClient;
+global $client;
 
 //print_r($wooClient);
 
 //print_r($wooClient->customers->get());
 
 echo "<br> product count: <br>";
-print_r($wooClient->products->get_count());
+print_r($client->products->get_count());
 
 echo "<br> Product: <br>";
-print_r($wooClient->products->get());
+print_r($client->products->get());
 
 echo "<br> Orders: <br>";
-print_r($wooClient->orders->get());
+print_r($client->orders->get());
 
 
