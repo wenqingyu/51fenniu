@@ -1,0 +1,1046 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Gallery"
+msgstr ""
+
+#. Short description.
+msgid "Photo Gallery is an advanced plugin with a list of tools and options for adding and editing images for different views. It is fully responsive."
+msgstr ""
+
+#. Screenshot description.
+msgid "Photo Gallery - Popup View"
+msgstr ""
+
+#. Screenshot description.
+msgid "Photo Gallery - Thumbnails View"
+msgstr ""
+
+#. Screenshot description.
+msgid "Photo Gallery - Masonry View"
+msgstr ""
+
+#. Screenshot description.
+msgid "Photo Gallery - Create Shortcode"
+msgstr ""
+
+#. Screenshot description.
+msgid "Photo Gallery - Edit Global Options"
+msgstr ""
+
+#. Screenshot description.
+msgid "Photo Gallery - Edit Watermark"
+msgstr ""
+
+#. Found in description header.
+msgid "Photo Gallery Add-ons:"
+msgstr ""
+
+#. Found in description header.
+msgid "IMPORTANT:"
+msgstr ""
+
+#. Found in description header.
+msgid "The list of the features:"
+msgstr ""
+
+#. Found in description header.
+msgid "Supported languages"
+msgstr ""
+
+#. Found in description list item.
+msgid "Thumbnails gallery view"
+msgstr ""
+
+#. Found in description list item.
+msgid "Masonry gallery view for multi-size thumbnails (commercial version)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Mosaic gallery view (commercial version)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Slideshow"
+msgstr ""
+
+#. Found in description list item.
+msgid "Image Browser for single image display with a possibility of switching between images"
+msgstr ""
+
+#. Found in description list item.
+msgid "Compact Album view"
+msgstr ""
+
+#. Found in description list item.
+msgid "Masonry Album view (commercial version)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Extended Album view for displaying albums with descriptions"
+msgstr ""
+
+#. Found in description list item.
+msgid "Blog Style gallery view (commercial version)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Tag Cloud"
+msgstr ""
+
+#. Found in description list item.
+msgid "Dynamic Photo Gallery Tags Cloud "
+msgstr ""
+
+#. Found in description list item.
+msgid "Photo Gallery Slideshow "
+msgstr ""
+
+#. Found in description list item.
+msgid "Photo Gallery (similar to the main plugin option)"
+msgstr ""
+
+#. Found in description list item.
+msgid "100% Responsive   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Multiple gallery views to choose from: Thumbnails, Image Browser, Slideshow  for galleries and Compact Album, Extended Album views for albums   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Supports the following types of image files:  JPG, JPEG, PNG and GIF   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Unlimited quantity of photos in gallery    "
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility of adding unlimited quantity of galleries/albums   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Detailed three-column visual shortcode for adding created gallery/galleries and album/albums into the posts and pages.    "
+msgstr ""
+
+#. Found in description list item.
+msgid "Detailed (Extended) album and compact album view  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility of changing the roles of who can edit the galleries/albums/images (Author/All Users)  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Chances to provide details for images (tags, captions)  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Thumbnail editing tools (Crop, rotate and flip)  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility of changing the amount of images displayed in a single row of an album/gallery  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Slideshow view with auto play and shuffle features   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Audio track playback possibility with the image slideshow  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility of adding Watermarks/Advertisements for each individual image  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Direct Image download and original image display capabilities   "
+msgstr ""
+
+#. Found in description list item.
+msgid "WordPress Tag cloud hosted widget  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Photo Gallery Slideshow widget  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Photo Gallery Widget for displaying albums and galleries as widgets"
+msgstr ""
+
+#. Found in description list item.
+msgid "Separate shortcode generator page for the websites using custom pages/custom editors.     "
+msgstr ""
+
+#. Found in description list item.
+msgid "Support for YouTube and Vimeo videos within Galleries.    "
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility of uploading images from the Media Library of the website."
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility to add tags to all images at once.  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Right-click disabling option for the image downloads protection.   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility to display images in the albums in thumbnail or masonry view upon opening   "
+msgstr ""
+
+#. Found in description list item.
+msgid "WordPress Search Integration by gallery and album title   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility to display the number of the images in the gallery lighbox (optional feature)   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Resizing possibility after adding the images   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility to display Search Box on the gallery page for the search based on titles   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility to display the number of images in the lighbox  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Redirection option upon clicking image thumbnail  "
+msgstr ""
+
+#. Found in description list item, changelog list item.
+msgid "Front-end image sorting possibility (dropdown) for the users  "
+msgstr ""
+
+#. Found in description list item.
+msgid "Masonry gallery View. "
+msgstr ""
+
+#. Found in description list item.
+msgid "Mosaic gallery View   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Blog Style View.   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Masonry Album view   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Slideshow/Lightbox 15 effects.    "
+msgstr ""
+
+#. Found in description list item.
+msgid "Editable themes.   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Instagram Integration.   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Commenting possibility with Captcha protection possibility.   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Social sharing possibility (Facebook, Google+, Twitter, Pinterest and Tumblr).    "
+msgstr ""
+
+#. Found in description list item.
+msgid "Dynamic Photo Gallery Tag Cloud widget  with image tag cloud and text tag cloud options.   "
+msgstr ""
+
+#. Found in description list item.
+msgid "Possibility to include both videos and images within a single gallery.     "
+msgstr ""
+
+#. Found in description list item.
+msgid "Add ons support.      "
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Create 100% responsive FREE WordPress photo gallery in minutes. Easy to customize and various views."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "https://www.youtube.com/watch?v=4Mxg0FsFZZE&amp;index=5&amp;list=PLnxWPiY5tLFUsFI67acGEPAqoDMZqss5F"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"https://web-dorado.com/products/wordpress-photo-gallery-plugin/add-ons/facebook.html\">Facebook Integration Add-on</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Photo Gallery is an advanced plugin with a list of tools and options for adding and editing images for different views. It is fully responsive. The product includes plugin for adding image galleries and albums to posts and pages, as well as multiple widgets. You can add images, providing detailed descriptions and tags, organize the galleries into different albums."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The plugin allows displaying galleries/albums within the following views:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can make the required customizations for the view in the shortcode in advance to adding in the posts/pages."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Included File Manager will help to rename, upload, remove, copy images and/or image directories within a few simple steps."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Photo Gallery product in addition to the main plugin includes 4 specific widgets:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you think you found a bug in Photo Gallery or have any problem/question concerning the plugin, please check out <a href=\"https://web-dorado.com/forum/photo-gallery.html\">Photo Gallery Support Forum</a> in our website. If you do not find a solution here, do not hesitate to contact us at <a href=\"mailto:info@web-dorado.com\">info@web-dorado.com</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Upgrade to <a href=\"https://web-dorado.com/products/wordpress-photo-gallery-plugin.html\">WordPress Photo Gallery Pro</a> to add features:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "*If you need language of Photo Gallery which is not included in this list, please contact us and we will do the translation of Photo Gallery within 3 days. If you find any mistakes in the translation, please contact us and we will make relevant corrections within 3 days. *"
+msgstr ""
+
+#. Found in installation header.
+msgid "Thank you for your interest in Photo Gallery."
+msgstr ""
+
+#. Found in installation header.
+msgid "Minimum requirements."
+msgstr ""
+
+#. Found in installation header.
+msgid "Perform a new installation"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Wordpress 3.4+  "
+msgstr ""
+
+#. Found in installation list item.
+msgid "PHP 5.x  "
+msgstr ""
+
+#. Found in installation list item.
+msgid "MySQL 5.x  "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Log in to the administrator panel.   "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to Plugins Add &gt; New &gt; Upload.     "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click <code>Install Now</code> button.     "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click <code>Activate Plugin</code> button for activating the gallery plugin.    "
+msgstr ""
+
+#. Found in installation list item.
+msgid "If the installation does not succeed, please contact us at <a href=\"mailto:info@web-dorado.com\">info@web-dorado.com</a>."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "After downloading the ZIP file,"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Embed media responsiveness.     "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Permissions for shortcode(pro version).    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Show/hide custom post types (optional).      "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Bug in comments"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Licensing page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Thumbnail click action.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Filter by tags in frontend."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Notices show order.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Facebook embed add-on.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Add-ons page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Translation in Icelandic. Thanks to Eggert Johannesson.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Serbian translation.    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Share url on Pinterest.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Edit images with quotas in name.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Edit newly added images.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Featured plugins page.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Play/pause button in carousel view.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Recreate thumbnail.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Division by zero in pagination.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Add to pinterest description image alt.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Support/rate us messages.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Image browser view pagination styles.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Open shared album image."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Image browse pagination."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Images count parameter for load more.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Pinterest share.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Depricated function in carousel.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Compability with Wordpress 4.3.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: JavaScript conflict with some themes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Call photo gallery by php function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Back to previous album/gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Transition for mosaic view.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Activate, Deactivate hooks for multisite."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Licensing page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: \"Open image in original size\" and \"Download original image\" for embed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Instagram thumbnail."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Watermark link."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Tools for editing images"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Security issue  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Embed media for wordpress lower than 4.0.0."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Save images ordering in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Warnings in filemanager."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Prevent opening lightbox on swipe."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Search by name in file manager.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Carousel view.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Horizontal Mosaic view bug.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Print bug.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Load more with scroll.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Thumbnail size on recover.      "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Featured plugins page.    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Mosaic view show title.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: AddThis javascript bug.    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Addthis (pro version).     "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Link text font size in extended album description.     "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Delete/update custom posts on gallery/album edit.    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Image width/height size with open comments.    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Loop option for lightbox.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Embed media by YouTube short url.    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Load more button instead of pagination (optional).   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Minor bug on gallery save on php5.3.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change links    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Featured plugins page.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Featured themes page.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "change user guide links    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor bug fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Lightbox opening bug for ios."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Lightbox opening bug for mobile browsers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "duplicated id in slideshow view    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "deprecated options removed (roles) "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "bug in preload option fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor bugs fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "conflict with some themes fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Bottom pagination in admin views.    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Improve SEO.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Autohide option for slideshow and lightbox navigation buttons.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Read image meta data.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Slideshow bullets centering.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Admin-ajax url for frontend.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Upload images to .original not resized.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Order by filename.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Embed support.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Photo gallery can be loaded through AJAX request.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Image meta auto-filling.    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Deleted tag posts.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Improved security of backend.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Thumbnail and filmstrip sizes for embeds.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Search in backend galleries view.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Gallery box image URL on a page with multiple galleries.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Maximize/resize buttons in gallery box when exiting fullscreen.   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Other minor bugs.    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added large image url in page source for SEO  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "shortcode issue fixed  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "security issue fixed    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "bug in fullscreen button and laoding image animation fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "updated font-awesome to 4.2.0 version    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "sort bug in ligthbox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "security issue fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "masonry album view type    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "single quota bug in image fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "bug in new image save fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "wrap around in lightbox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "pagination input"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "play icon over the video thumbnail"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "add upload images with custom size"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "minor changes in shortcode generation code "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "change shortcodes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "images count in ligthbox (optional - only in options page)     "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "images count column in galleries table     "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress Search Integration by gallery and album title    "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "show gallery, album title (optional - only in options page)   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed in tag cloud widget "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed in filemanager     "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "change in loading   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added option \"Import from Media Library\"      "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "bug fixed in save gallery      "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improve translation, Add tags to all images      "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "redirect from widget, unique tags name      "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "order option for album images   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added option for sorting gallery images within album   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "bug fixed on lightbox   "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "preload images count options  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "redirect url optional "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added search images in gallery (optional), optional info, resize."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added option for show image title/description on lightbox."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added tag cloud ordering option, keep aspect ratio."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "youtube, vimeo."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added tag cloud options and zip upload."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "bug fixed on WP 3.9 editor."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "gallery alignment bug fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "corrected album ordering and added slideshow widget filmstrip height option."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added swipe effect on lightbox."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added option disable/enable right click."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "bug fixed in slideshow ."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "removed enters from code (conflicts fixed)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "critical bug with uninstall fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "improved file upload and save on gallery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "improved filemanager functionality, fix bug on widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "bug fixed in file manager. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added shortcode generator, thumbnail title, thumb size in filemanager, bug  fixed in slideshow. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "bug fixed in album view ."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "php 5.2 capability."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial version."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Edit licensing page"
+msgstr ""
+
+#. Found in faq header.
+msgid "1. How can I add images to the Photo Gallery?"
+msgstr ""
+
+#. Found in faq header.
+msgid "2. What is the difference between galleries and albums?"
+msgstr ""
+
+#. Found in faq header.
+msgid "3. Can I add images using FTP?"
+msgstr ""
+
+#. Found in faq header.
+msgid "4. Can I add multiple galleries/albums for a single page/domain?"
+msgstr ""
+
+#. Found in faq header.
+msgid "5. Is it possible to translate Photo Gallery into another language?"
+msgstr ""
+
+#. Found in faq header.
+msgid "6. Is the Photo Gallery responsive?"
+msgstr ""
+
+#. Found in faq header.
+msgid "7. Is it possible to add advertising or watermark over the images with free version?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The images can be added to Photo Gallery using its standard File Manager. The uploader can be used both for uploading individual images or multiple images (This should done by uploading a .zip archive file)"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The galleries are designed to contain images, whereas albums contain either galleries and/or other albums."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Unfortunately, there is no such option. During the upload the thumbnails of the images are being created, whereas when using FTP the thumbnails do not get generated.  The image thumbnails are required for most of the views. Thus using Media Upload is the only option."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, you can add as many galleries/albums within a single post or domain as you wish. There are no limitations on these options."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "It is only possible to translate the front end of the plugin. To do so, you should set define('WPLANG','[lang_code]') to the desired language code in wp_config.php file of your website. This way the plugin should be translated automatically. Please be informed, that you can modify the translations from wp-content/plugins/photo_gallery/languages/ (you will need POEdit http://www.poedit.net/download.php). You can find the language codes for the Photo Gallery in Wordpress.org appropriate plugins' page."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, the Photo Gallery is responsive and displays resized image for the mobile devices and tablets."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, it is possible to add advertising and/or watermark over the images. In both cases it can be only a single ad/watermark for all images."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Wordpress Photo Gallery Step by step guide"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 1: Installing the Gallery"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 2:  Creating/Editing Galleries for the Photo Gallery."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 3:  Creating/Editing Tags for the Photo Gallery galleries and albums."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 4:  Creating/Editing Albums for the Photo Gallery."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 5:   Editing Options for Photo Gallery."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 6:  Creating/Editing Themes for different views of the Photo Gallery."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 7: Editing comments."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 8: Publishing the Created Photo Gallery."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 9: Publishing Photo Gallery widgets."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Step 10: Generating shortcode for the Photo Gallery."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Go to Appearance&gt;Widgets. Here select the gallery widget option you want to add to a custom location. Afterwards drag and drop the selected gallery widget into the custom location, fill in the options and press Save button."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "To use the created galleries and albums for the custom location, you can generate custom gallery shortcodes and edit the exisiting gallery shortcodes."
+msgstr ""

@@ -1,0 +1,51 @@
+CHANGELOG
+---------
+
+Version 1.0.0.6
+
+	i) Fixed Unprintable Character Issue in content-grid4.php
+	ii) Comment Changes in functions.php for Developer Reference.
+	iii) FIxes Issues regarding Display of Social Icons.
+
+Version 1.0.0.5
+
+	i) Fixed a Layout Bug on Search Page.
+
+Version 1.0.0.4
+
+	i) Fixed Issues with Fonts not loading.
+	ii) Fixed Search Page Layout.
+	iii) Fixed Layout of Archive Pages.
+
+Version 1.0.0.3
+
+	i) Fixed Sanitization Issues reported by Theme Check
+	ii) Fixed Issue which crashed sites on update.
+
+Version 1.0.0.2
+
+	i) Updated Redux Framework.
+	ii) Removed Redux Framework's Tracking Feature. Disabled Opt ins too. No Tracking, whatsoever.
+
+Version 1.0.0.1
+
+	i) Fixed Bug related to Display of Gallery.
+	ii) Removed Codekit Config file.
+
+Version 1.0
+
+	i) Fixed PHP Notice Bug
+	ii) Added Defaults for Carousel and Social icons.
+	iii) Fixed Sidebar Display Bug on Mobile Devices.
+	iv) Removed Tooltipster, Waypoints & Tinynav
+	v) Minor Changes to Design
+	vi) Minor Changes to Options.php (Theme Options)
+	vii) Updated Screenshot, and Stated license for images used.
+
+Version 0.92
+
+	i) Minor bug Fixes Before Release.
+
+Version 0.9
+
+	i) Initial Release.
