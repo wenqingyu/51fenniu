@@ -7,9 +7,9 @@ require_once('../../config.php');
 
 global $client;
 
-//print_r($wooClient);
+print_r($client);
 
-//print_r($wooClient->customers->get());
+print_r($client->customers->get());
 
 echo "<br> product count: <br>";
 print_r($client->products->get_count());
