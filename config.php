@@ -22,6 +22,7 @@ $client = "EMPTY";
 try {
 
     $client = new WC_API_Client('http://121.40.182.178', $CONSUMER_KEY, $CONSUMER_SECRET, $options);
+    print_r($client);
     echo "<br>connect woo api success!<br>";
     
 
