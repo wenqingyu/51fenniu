@@ -15,7 +15,7 @@ global $client;
 // print_r($client->products->get_count());
 
 echo "<br> Product: <br>";
-print_r($client->products->get_by_sku('001'));
+print_r($client->products->get());
 
 // echo "<br> Orders: <br>";
 // print_r($client->orders->get());

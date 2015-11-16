@@ -6,14 +6,18 @@
  * Time: 10:39 AM
  */
 
-$CONSUMER_KEY = "ck_1394e280a4ce2f9197dd87d814102caaf70f40b2";
-$CONSUMER_SECRET = "cs_0ebb6ce4abb2ae09b925022e20e3da1b4cadf24b";
+$CONSUMER_KEY = "ck_eda573b39cbb9684317b2dace2f63acc1f09cd19";
+$CONSUMER_SECRET = "cs_e931180e14a78bda43e7e99744202b7218637101";
 
 
 require_once('WooCommerce-REST-API-Client-Library/lib/woocommerce-api.php');
 
 $options = array(
-    'ssl_verify' => false,
+	'debug'           => true,
+	'return_as_array' => false,
+	'validate_url'    => false,
+	'timeout'         => 30,
+	'ssl_verify'      => false,
 );
 
 
@@ -21,8 +25,10 @@ $client = "EMPTY";
 
 try {
 
-    $client = new WC_API_Client('http://121.40.182.178', $CONSUMER_KEY, $CONSUMER_SECRET, $options);
+    $client = new WC_API_Client('http://121.40.182.178/51fenniu/', $CONSUMER_KEY, $CONSUMER_SECRET, $options);
     echo "<br>connect woo api success!<br>";
+    print_r($client);
+    echo "<br><br><br><br>";
     
 
 } catch (WC_API_Client_Exception $e) {
