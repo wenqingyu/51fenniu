@@ -6,8 +6,8 @@
  * Time: 10:39 AM
  */
 
-$CONSUMER_KEY = "ck_49e0cc52f82d05a3b9d0effff5439cab";
-$CONSUMER_SECRET = "cs_cd7dea6b8febe97966c4757575f4b2f7";
+$CONSUMER_KEY = "ck_1394e280a4ce2f9197dd87d814102caaf70f40b2";
+$CONSUMER_SECRET = "cs_0ebb6ce4abb2ae09b925022e20e3da1b4cadf24b";
 
 
 require_once('WooCommerce-REST-API-Client-Library/lib/woocommerce-api.php');
@@ -21,7 +21,7 @@ $wooClient = "EMPTY";
 
 try {
 
-    $wooClient = new WC_API_Client('http://51fenniu.com', $CONSUMER_KEY, $CONSUMER_SECRET, $options);
+    $wooClient = new WC_API_Client('http://121.40.182.178', $CONSUMER_KEY, $CONSUMER_SECRET, $options);
     echo "<br>connect woo api success!<br>";
 
 } catch (WC_API_Client_Exception $e) {
